@@ -1,0 +1,9 @@
+{
+  "event_id": "LDG-LOG-20260226-001",
+  "timestamp": "2026-02-26T15:10:00Z",
+  "action": "OP_CASE_001_MERGE",
+  "actor": "GID-F-2026-0001",
+  "target_repo": "prospera-exam-platform",
+  "result": "SUCCESS",
+  "description": "Injected ISO-14067 data via PR-01"
+}
