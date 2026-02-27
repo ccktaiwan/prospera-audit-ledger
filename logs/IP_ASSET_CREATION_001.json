@@ -1,0 +1,19 @@
+{
+  "audit_metadata": {
+    "event_id": "LDG-LOG-20260227-IP001",
+    "timestamp": "2026-02-27T13:30:00Z",
+    "epoch": "Phase-6-Operational"
+  },
+  "asset_details": {
+    "action": "IP_ASSET_SEAL",
+    "artifact_name": "ESG_Quantification_Core.js",
+    "repository": "ai-governed-software-engineering",
+    "ip_class": "CAT-B",
+    "registry_reference": "SPN-L1-IP-REG-001"
+  },
+  "integrity_proof": {
+    "commit_hash": "222b94a",
+    "signer_gid": "GID-F-2026-0001",
+    "status": "VALIDATED_STABLE"
+  }
+}
